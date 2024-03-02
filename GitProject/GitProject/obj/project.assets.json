@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hannah\\.nuget\\packages\\": {}
+    "C:\\Users\\Izan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
+      "projectUniqueName": "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
       "projectName": "GitProject",
-      "projectPath": "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
-      "packagesPath": "C:\\Users\\Hannah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\obj\\",
+      "projectPath": "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
+      "packagesPath": "C:\\Users\\Izan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Hannah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Izan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
