@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj": {}
+    "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj": {
+    "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
+        "projectUniqueName": "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
         "projectName": "GitProject",
-        "projectPath": "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
-        "packagesPath": "C:\\Users\\Izan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izan\\Desktop\\Izan\\______Uni_____\\2ocuatri\\MAP\\GitPractica\\Grupo55\\PracticaGit\\GitProject\\GitProject\\obj\\",
+        "projectPath": "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\GitProject.csproj",
+        "packagesPath": "C:\\Users\\Hannah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hannah\\Documents\\Save\\DesarrolloVideojuegos\\MAP\\GitPractica2\\PracticaGit\\GitProject\\GitProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Izan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Hannah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
