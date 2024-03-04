@@ -9,7 +9,10 @@
             Console.WriteLine("UwU");
 
             Console.WriteLine("Mi gato me lo robaron");
-
+            if (true)
+            {
+                return;
+            }
         }
     }
 }
