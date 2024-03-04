@@ -9,6 +9,11 @@
             Console.WriteLine("Mi gato me lo robaron");
 
             Console.WriteLine("Ñom dijo Om Nom");
+            if (true)
+            {
+                return;
+            }
+
         }
     }
 }
