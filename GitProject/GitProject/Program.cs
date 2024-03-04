@@ -6,10 +6,9 @@
         {
             Console.WriteLine("Me voy a comer a tu gato!");
 
-            Console.WriteLine("UwU");
-
             Console.WriteLine("Mi gato me lo robaron");
 
+            Console.WriteLine("Ñom dijo Om Nom");
         }
     }
 }
